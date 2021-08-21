@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Infinity-CHL
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hey, buddy 👋
+My name is Javohir , I am 20 years old.
+Don't go away, listen to me , I'll tell you my little story:
+    I once dreamed of becoming a programmer, it was cool to watch someone write codes on a computer, then I didn't understand anything. Since childhood, I have loved computer games, we can say that they have become the reason that I am currently sitting at the computer and doing my favorite thing. Yes, I write codes , I create something, I make cool websites, I create something that people like, and I fucking like it. This is just the beginning ! I live in Tashkent , this city is located in Uzbekistan, probably few people have heard about it, but I have something to be proud of 😊 Recently I read a quote on the Internet, and I really liked it ("If you want to have something that you have never had-start doing something that you have never done!") and do you know what I will do ? I'm going to Silicon Valley. Yes! Yes! Yes! Are you saying that this is impossible ? No, I'm sorry, but you are very wrong ) After all, I realized my childhood dream, I became what I wanted, and from today nothing is impossible for me ! And the USA is my adult dream ) Nothing will stop me !
 
-<!---
-Infinity-CHL/Infinity-CHL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+__ru 📝
+
+Привет дружище 👋
+Меня зовут Жавохир , мне 20 лет.
+Не уходи , послушай меня , я расскажу тебе свою небольшую историю:
+    Я когда-то мечтал стать программистом, было круто наблюдать, как кто-то пишет коды на компьютере, тогда я ничего не понимал. С детства я любил компьютерные игры, можно сказать , что они стали причиной того, что в настоящее время я сижу за компьютером и занимаюсь своим любимым делом. Да, я пишу коды , я что-то создаю, я делаю классные сайты, я создаю то, что нравится людям, и мне это чертовски нравится. Это всег лишь начало ! Я живу в Ташкенте , этот город расположен в Узбекистане, наверное, мало кто слышал об этом, но мне есть чем гордиться 😊 Недавно в Интернете прочитали цитату, и она мне очень понравилась ("Если вы хотите иметь то,что никогда не имели — начните делать то,что никогда не делали!") и знаешь, что я сделаю ? Я поеду в Силиконовую долину. Да! Да! Да! Вы хотите сказать, что это невозможно ? Нет, мне очень жаль, но вы сильно ошибаетесь ) Ведь я осуществил свою детскую мечту, я стал тем , кем я хотел, и с сегодняшнего дня для меня нет ничего невозможного ! И США-моя взрослая мечта ) Меня ничто не остановит !
