@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m a beginner Front-end developer<br>👨‍💻 I’m an mentor-assistant on platform Skillbox<br>💬 Ask me about HTML5, CSS (Preprocessors), JavaScript(ES6), React<br>📫 How to reach me: javohir.dev.19@gmail.com<br>⚡ My Portfolio!: soon<br>🌍 I speak Uzbek (native), Russian (fluently), English (B1)
+🌱 I’m a beginner Front-end developer<br>👨‍💻 I’m a mentor-assistant on platform Skillbox<br>💬 Ask me about HTML5, CSS (Preprocessors), JavaScript(ES6), React<br>📫 How to reach me: javohir.dev.19@gmail.com<br>⚡ My Portfolio!: soon<br>🌍 I speak Uzbek (native), Russian (fluently), English (B1)
 
 
 ## 🌐 Socials:
